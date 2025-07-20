@@ -6,6 +6,7 @@ import Booking from './Booking';
 import Admin from './Admin';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import 'animate.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function MainPage() {
   return (
