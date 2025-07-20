@@ -2,6 +2,7 @@
   "name": "bank-app",
   "private": true,
   "dependencies": {
+    "@fontsource/cairo": "^5.2.6",
     "animate.css": "^4.1.1",
     "bcryptjs": "^3.0.2",
     "bootstrap": "^5.3.7",
