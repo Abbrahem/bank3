@@ -201,16 +201,6 @@ function Booking() {
           </div>
         )}
       </div>
-      {/* مثال دروب ليست أساسي للتجربة فقط */}
-      <div className="container my-3">
-        <label className="form-label fw-bold">دروب ليست تجريبية (تعمل دائمًا على الموبايل)</label>
-        <select className="form-select" defaultValue="">
-          <option value="">اختر خيارًا</option>
-          <option value="1">الخيار الأول</option>
-          <option value="2">الخيار الثاني</option>
-          <option value="3">الخيار الثالث</option>
-        </select>
-      </div>
     </div>
   );
 }
